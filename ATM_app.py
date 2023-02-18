@@ -1,6 +1,6 @@
 # /*
 #  * Copyright (C) 2020  Abdullah Azzam Olcay
-#  * Gebze Technical University
+#  * University of Southampton
 #  * Lınkedin: https://tr.linkedin.com/in/abdullah-azzam-olcay-613453183
 #  *
 #  *
